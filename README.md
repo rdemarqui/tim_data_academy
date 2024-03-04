@@ -10,5 +10,3 @@ Repository of material referring to the article "<b>Utilização do LLM Open-sou
   
 <p align="justify">
 <b>Resumo.</b> O crescimento exponencial da base de usuários, aliado à diversificação de produtos, levou as operadoras móveis a lidarem com um aumento significativo no número de reclamações. Lidar com essa crescente demanda tornou-se desafiador, gerando a necessidade de soluções eficientes para extrair informações valiosas de grandes volumes de dados não estruturados. A utilização de IA nessa tarefa de análise pode ser uma ferramenta de grande valia. O presente artigo se concentra na exploração do LLM Mistral 7B, um modelo pré-treinado de código aberto baseado na arquitetura transformer, para a classificação multi-rótulo de reclamações extraídas do site Reclame Aqui.
-
-
