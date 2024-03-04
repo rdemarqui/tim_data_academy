@@ -1,6 +1,6 @@
 # sbrc_2024
-Repository of material referring to the article "**Utilização do LLM Open-source Mistral 7B para Classificação de Reclamações**" generated for [42° SIMPÓSIO BRASILEIRO DE
-REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS (SBRC)](https://sbrc.sbc.org.br/2024/) in industry track.
+Repository of material referring to the article "**Utilização do LLM Open-source Mistral 7B para Classificação de Reclamações**" generated for [42° Simpósio Brasileiro de
+Redes de Computadores e Sistemas Distribuídos (SBRC)](https://sbrc.sbc.org.br/2024/) in industry track.
 
 **Abstract.** The exponential growth of the user base, coupled with product diversification, has led mobile operators to grapple with a significant increase in the number of complaints. Managing this growing demand has become challenging, necessitating efficient solutions to extract valuable information from large volumes of unstructured data. The use of AI in this analytical task can be a valuable tool. This article focuses on exploring the Mistral 7B LLM, a pre-trained open-source model based on the transformer architecture, for multi-label classification of complaints extracted from the Reclame Aqui website.
 
